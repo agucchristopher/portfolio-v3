@@ -10,7 +10,7 @@
     {
       "title": "React Dashboard",
       "imageUrl": "dashboard.png",
-      "project_url": "https://github.com/agucchristopher/memories_app_frontend",
+      "project_url": "https://github.com/agucchristopher/React-Dashboard",
       "description": "Modern dashboard using reactjs with beautiful charts and sleek UI.",
       "tags": ["react", "nodejs"]
     },
