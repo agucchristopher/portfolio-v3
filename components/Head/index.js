@@ -28,7 +28,10 @@ export default function DomHead({ pageName = "Home Page" }) {
         property="og:description"
         content="Hey, I'm Christopher. I'm a fullstack software developer"
       />
-      <meta property="og:image" content="" />
+      <meta
+        property="og:image"
+        content="https://avatars.githubusercontent.com/u/83035789?v=4"
+      />
 
       {/* <!-- Twitter --> */}
       <meta property="twitter:card" content="summary_large_image" />
@@ -43,7 +46,7 @@ export default function DomHead({ pageName = "Home Page" }) {
       />
       <meta
         property="twitter:image"
-        content="https://github.com/3/baaymax-assets/blob/main/app.png?raw=true"
+        content="https://avatars.githubusercontent.com/u/83035789?v=4"
       />
 
       {/* meta tags end */}
