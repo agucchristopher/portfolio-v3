@@ -20,6 +20,13 @@
       "project_url": "https://github.com/agucchristopher/ecommerce_sanity_stripe",
       "description": "A simple eccomerce website made with nextjs with stripe integration.",
       "tags": ["react", "nodejs", "next"]
+    },
+    {
+      "title": "ChrisGPT",
+      "imageUrl": "",
+      "project_url": "https://github.com/agucchristopher/chrisgpt_frontend",
+      "description": "A simple chatgpt clone made using reactjs for frontend and nodejs for backend.",
+      "tags": ["react", "nodejs", "AI"]
     }
   ]
 }
