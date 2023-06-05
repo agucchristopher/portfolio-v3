@@ -15,8 +15,8 @@
       "tags": ["react", "nodejs"]
     },
     {
-      "title": "Chris Cart",
-      "imageUrl": "dashboard.png",
+      "title": "Phanox Cart",
+      "imageUrl": "https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png",
       "project_url": "https://github.com/agucchristopher/memories_app_frontend",
       "description": "A simple eccomerce website made with nextjs with stripe integration.",
       "tags": ["react", "nodejs", "next"]
