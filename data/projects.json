@@ -1,10 +1,17 @@
 {
   "projects": [
     {
-      "title": "BaayMax",
-      "imageUrl": "https://github.com/Benrobo/baaymax-cli/raw/master/readmeImg/cli.png?raw=true",
-      "project_url": "https://github.com/Benrobo/baaymax",
-      "description": "Generate developer portfolio site from your github profile.",
+      "title": "Memories App",
+      "imageUrl": "../../../images/1.png",
+      "project_url": "https://github.com/agucchristopher/memories_app_frontend",
+      "description": "Share your memories with your freinds.",
+      "tags": ["react", "nodejs"]
+    },
+    {
+      "title": "React Dashboard",
+      "imageUrl": "../images/dashboard.png",
+      "project_url": "https://github.com/agucchristopher/memories_app_frontend",
+      "description": "Modern dashboard using reactjs .",
       "tags": ["react", "nodejs"]
     }
   ]
