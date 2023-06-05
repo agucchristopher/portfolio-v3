@@ -2,17 +2,24 @@
   "projects": [
     {
       "title": "Memories App",
-      "imageUrl": "../../../images/1.png",
+      "imageUrl": "1.png",
       "project_url": "https://github.com/agucchristopher/memories_app_frontend",
       "description": "Share your memories with your freinds.",
       "tags": ["react", "nodejs"]
     },
     {
       "title": "React Dashboard",
-      "imageUrl": "../images/dashboard.png",
+      "imageUrl": "dashboard.png",
       "project_url": "https://github.com/agucchristopher/memories_app_frontend",
-      "description": "Modern dashboard using reactjs .",
+      "description": "Modern dashboard using reactjs with beautiful charts and sleek UI.",
       "tags": ["react", "nodejs"]
+    },
+    {
+      "title": "Chris Cart",
+      "imageUrl": "dashboard.png",
+      "project_url": "https://github.com/agucchristopher/memories_app_frontend",
+      "description": "A simple eccomerce website made with nextjs with stripe integration.",
+      "tags": ["react", "nodejs", "next"]
     }
   ]
 }
